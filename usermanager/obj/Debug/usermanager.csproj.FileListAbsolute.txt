@@ -1,0 +1,6 @@
+c:\users\jrnicho\source\repos\usermanager\usermanager\bin\usermanager.dll.config
+c:\users\jrnicho\source\repos\usermanager\usermanager\bin\usermanager.dll
+c:\users\jrnicho\source\repos\usermanager\usermanager\bin\usermanager.pdb
+c:\users\jrnicho\source\repos\usermanager\usermanager\obj\Debug\usermanager.csproj.CoreCompileInputs.cache
+c:\users\jrnicho\source\repos\usermanager\usermanager\obj\Debug\usermanager.dll
+c:\users\jrnicho\source\repos\usermanager\usermanager\obj\Debug\usermanager.pdb
